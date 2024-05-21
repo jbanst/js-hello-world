@@ -5,7 +5,6 @@ to the console (the panel on the right)
 */
 
 console.log("Hello, World!");
-console.log('"Nevermore"');
 
 /*  
 Next, PLAY! 
